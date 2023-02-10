@@ -1,2 +1,2 @@
-# kalininoleg.github.com
+# kalininoleg.github.io
 Hi!
